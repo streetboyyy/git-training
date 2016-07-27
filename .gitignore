@@ -4,4 +4,4 @@
 bin/
 doc/**/*.pdf
 blah
-*.toIgnoreTest
+*.toIgnoreTest.txt
