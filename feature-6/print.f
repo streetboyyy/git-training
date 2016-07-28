@@ -4,3 +4,5 @@ def print(str)
     echo "hello, " str feature3
 
 print "git friends"
+
+print "ala bala"
