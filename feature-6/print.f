@@ -5,4 +5,4 @@ def print(str)
 
 print "git friends"
 
-print "ala bala s da"
+print "ala bala s dass"
